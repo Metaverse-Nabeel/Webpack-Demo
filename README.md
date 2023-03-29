@@ -1,2 +1,2 @@
-# To-Do-List
-Simple project of To do List for Microverse.
+# Webpack Demo
+Simple project of Webpack Demo for Microverse.
